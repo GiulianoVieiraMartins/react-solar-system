@@ -3,10 +3,11 @@ import PropTypes from 'prop-types';
 
 export default class Title extends Component {
   render() {
-    const { Headline } = this.props;
+    const { headline } = this.props;
+    // console.log(Headline);
     return (
-      <h2>{Headline}</h2>
+      <h2>{headline}</h2>
     );
   }
 }
-Title.propTypes = { Headline: PropTypes.string.isRequired };
+Title.propTypes = { headline: PropTypes.string.isRequired };

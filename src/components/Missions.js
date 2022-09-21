@@ -7,7 +7,7 @@ export default class Missions extends Component {
   render() {
     return (
       <div data-testid="missions">
-        <Title Headline="Missões" />
+        <Title headline="Missões" />
         { missions.map((missao, index) => (
           <MissionCard
             key={ index }
