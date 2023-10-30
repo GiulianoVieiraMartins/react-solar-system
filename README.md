@@ -1,4 +1,4 @@
-# :construction: README em construção ! :construction:
+Este projeto é somente um de muitos que apliquei conceitos de programação funcional usando react para renderizar componentes no front end. Todo o codigo dentro da pasta src/components assim como o arquivo app.js foi desenvolvido por mim.
 <!-- Olá, Tryber!
 Esse é apenas um arquivo inicial para o README do seu projeto.
 É essencial que você preencha esse documento por conta própria, ok?
